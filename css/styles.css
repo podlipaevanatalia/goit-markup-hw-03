@@ -237,7 +237,7 @@ button:focus {
   display: flex;
   flex-wrap: wrap;
   row-gap: 48px;
-  gap: 24px;
+  column-gap: 24px;
 }
 .portfolio-item-container {
   padding: 32px 16px;
